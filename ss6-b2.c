@@ -16,9 +16,8 @@ int main() {
             so_le++;   
         }
     }
-
     
-    printf("So luong so chan: %d\n", so_chan);
+	printf("So luong so chan: %d\n", so_chan);
     printf("So luong so le: %d\n", so_le);
 
     return 0;
