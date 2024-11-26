@@ -18,7 +18,7 @@ int main(){
 
 	if ( a != firstNumber || b != secondNumber || c != thirdNumber || d != fourthNumber ){
 		printf("Mat khau sai roi! Nhap lai di: \n");
-		}
+	   }
 	}	while ( a != firstNumber || b != secondNumber || c != thirdNumber || d != fourthNumber );
 		printf("Dung roi! Vay mat khau la: %d %d %d %d. ", firstNumber, secondNumber, thirdNumber, fourthNumber);
 	return 0;	
