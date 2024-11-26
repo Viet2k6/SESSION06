@@ -17,6 +17,7 @@ int main() {
         }
     }
     
+	
 	printf("So luong so chan: %d\n", so_chan);
     printf("So luong so le: %d\n", so_le);
 
